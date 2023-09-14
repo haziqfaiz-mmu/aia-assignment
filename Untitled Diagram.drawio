@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T02:52:41.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="_crllU_NZajqntI7xj4K" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T03:22:04.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="Lxx3KLmOUb043-Rljz7x" version="21.7.4" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1379" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="6a7d8f32e03d9370-2" value="Infected End User" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.laptop_2;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="352.4999999999999" y="649" width="116" height="86.5" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-16" value="AIA DNS" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.chassis;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-16" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.chassis;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="620" y="284.75" width="117.5" height="151.68" as="geometry" />
         </mxCell>
         <mxCell id="c3wLekcNgkHLhfMvlplp-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -93,10 +93,25 @@
         <mxCell id="c3wLekcNgkHLhfMvlplp-34" value="Hacker&#39;s PC" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.laptop_2;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1170" y="610" width="116" height="86.5" as="geometry" />
         </mxCell>
-        <mxCell id="c3wLekcNgkHLhfMvlplp-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.021;exitY=0.456;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="c3wLekcNgkHLhfMvlplp-28" target="c3wLekcNgkHLhfMvlplp-34">
+        <mxCell id="c3wLekcNgkHLhfMvlplp-35" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;exitX=1.021;exitY=0.456;exitDx=0;exitDy=0;exitPerimeter=0;startFill=0;" edge="1" parent="1" source="c3wLekcNgkHLhfMvlplp-28" target="c3wLekcNgkHLhfMvlplp-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="970" y="520" as="sourcePoint" />
             <mxPoint x="1020" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c3wLekcNgkHLhfMvlplp-38" value="AIA DNS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c3wLekcNgkHLhfMvlplp-39" value="De-encrypted data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1077.5" y="619" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c3wLekcNgkHLhfMvlplp-40" value="More Instructions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1077.5" y="705.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c3wLekcNgkHLhfMvlplp-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="690" as="sourcePoint" />
+            <mxPoint x="1060" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
