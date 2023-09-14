@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T02:49:01.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="22uAoBzp_CfWXbTpoLYE" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T02:50:59.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="S_FKzgDzPgH9iqTc7G4Q" version="21.7.4" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1379" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
             <mxPoint x="1020" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c3wLekcNgkHLhfMvlplp-34" value="Infected End User" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.laptop_2;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="c3wLekcNgkHLhfMvlplp-34" value="Hacker&#39;s PC" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.laptop_2;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1170" y="610" width="116" height="86.5" as="geometry" />
         </mxCell>
         <mxCell id="c3wLekcNgkHLhfMvlplp-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.021;exitY=0.456;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="c3wLekcNgkHLhfMvlplp-28" target="c3wLekcNgkHLhfMvlplp-34">
